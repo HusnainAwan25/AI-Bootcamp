@@ -23,3 +23,13 @@ Below is the complete breakdown of the files and directories included in this pr
 * **Notebooks**: Contains practical application notebooks, `Numpy_and_Plotting (1).ipynb` and `Pandas_Hands_on (1).ipynb`.
 * **Data Folder**: Includes a `data/` subdirectory containing the dataset `president_heights.csv`.
 * **Images Folder**: Includes an `img/` subdirectory containing `sample.png`.
+
+#### Lab 3: Version Control with GitHub
+* **Documentation**: Contains guides and cheat sheets for using Git and GitHub, such as `github_basics.md`.
+* **Concepts Covered**: Local repository initialization, staging files, committing changes, managing branches, and pushing code to remote repositories.
+
+#### Lab 4: To-Do List REST API
+* **Application Core**: Contains the `app/` directory with `main.py` (API endpoints and routing logic) and `schemas.py` (Pydantic data models).
+* **Server Scripts**: Includes `run.py` to launch the Uvicorn ASGI server.
+* **Configuration Files**: Includes `requirements.txt` for project dependencies and `.gitignore`.
+* **Visual Aids**: Contains screenshots of Swagger UI API responses (`POST`, `GET`, `PUT`, `DELETE`) for assignment validation.
