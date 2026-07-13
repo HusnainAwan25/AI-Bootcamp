@@ -39,3 +39,14 @@ To-Do List Flask API
 * **Application Core**: Contains `app.py`, which handles the API endpoints, routing logic, and in-memory data storage.
 * **Configuration Files**: Includes `requirements.txt` for project dependencies and `.gitignore`.
 * **Visual Aids**: Contains screenshots of terminal API responses (`POST`, `GET`, `PUT`, `DELETE`) using PowerShell `Invoke-RestMethod` and `curl` for assignment validation.
+
+### Week 3
+
+#### Lab 1: Handling Missing Values and Data Preprocessing
+* **Primary Notebook**: `Week_3_Day_1.ipynb`.
+* **Concepts Covered**: 
+  * Loading and exploring datasets using Pandas.
+  * Identifying and diagnosing missing data using analytical summaries and visual heatmaps (`Seaborn` and `Matplotlib`).
+  * Practical strategies for handling missing values: dropping highly-missing columns (e.g., `Cabin`, `Ticket`), performing grouped median imputation for numerical data (e.g., `Age` based on `Pclass`), generating missing data indicators, and utilizing mode imputation for categorical data (`Embarked`).
+  * Evaluating and visualizing data distributions before and after applying imputation techniques.
+* **Datasets**: Utilizes the `titanic.csv` dataset.
