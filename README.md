@@ -50,3 +50,35 @@ To-Do List Flask API
   * Practical strategies for handling missing values: dropping highly-missing columns (e.g., `Cabin`, `Ticket`), performing grouped median imputation for numerical data (e.g., `Age` based on `Pclass`), generating missing data indicators, and utilizing mode imputation for categorical data (`Embarked`).
   * Evaluating and visualizing data distributions before and after applying imputation techniques.
 * **Datasets**: Utilizes the `titanic.csv` dataset.
+
+#### Lab 2
+* **Notebook**: Contains the practical lab notebook `Week_3_Day_2.ipynb`.
+* **Topics Covered**:
+  * Feature Engineering for Tabular Data
+  * Advanced Feature Engineering Techniques
+  * Data Augmentation for Images
+  * Hands-on Exercises and Experiments
+* **Hands-on Activities**:
+  * Feature Selection
+  * Feature Scaling and Encoding
+  * Dimensionality Reduction (PCA)
+  * Image Data Augmentation
+  * Experimenting with different feature engineering parameters
+ 
+  #### Lab 3
+* **Notebook**: Contains the practical lab notebook `Week_3_Day_3.ipynb`.
+* **Dataset**: Uses the Titanic dataset for Exploratory Data Analysis (EDA).
+* **Topics Covered**:
+  * Data Inspection and Summary Statistics
+  * Handling Missing Values
+  * Univariate Analysis
+  * Bivariate Analysis
+  * Correlation Analysis
+  * Data Visualization
+* **Hands-on Activities**:
+  * Loading and exploring the dataset with Pandas
+  * Analyzing numerical and categorical features
+  * Creating histograms, box plots, count plots, and scatter plots
+  * Computing descriptive statistics and correlations
+  * Visualizing insights using Matplotlib and Seaborn
+  * 
