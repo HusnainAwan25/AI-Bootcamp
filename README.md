@@ -81,4 +81,3 @@ To-Do List Flask API
   * Creating histograms, box plots, count plots, and scatter plots
   * Computing descriptive statistics and correlations
   * Visualizing insights using Matplotlib and Seaborn
-  * 
