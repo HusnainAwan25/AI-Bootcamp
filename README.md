@@ -81,3 +81,72 @@ To-Do List Flask API
   * Creating histograms, box plots, count plots, and scatter plots
   * Computing descriptive statistics and correlations
   * Visualizing insights using Matplotlib and Seaborn
+ 
+  #### Lab 4 – Outlier Detection & Analysis
+* **Notebook**: Contains the practical implementation notebook `Week_3_Day_4.ipynb`.
+* **Topics Covered**:
+  - Creating sample datasets with intentional outliers
+  - Data exploration using `describe()` and summary statistics
+  - Visualizing data with histograms, box plots, scatter plots, and pair plots
+  - Detecting outliers using the **Z-Score** method
+  - Detecting outliers using the **Interquartile Range (IQR)** method
+  - Comparing Z-Score and IQR results
+  - Highlighting detected outliers through visualizations
+  - Analyzing the impact of outliers on statistical measures
+  - Removing outliers and comparing data before and after cleaning
+  - Interactive coding exercises for advanced outlier analysis
+* **Libraries Used**:
+  - NumPy
+  - Pandas
+  - Matplotlib
+  - Seaborn
+  - SciPy (`stats`)
+ 
+ #### Week 4 – Machine Learning Fundamentals
+  #### Lab 1
+### Solved Example Lab
+* **Notebook**: Contains the practical notebook `Linear_Regression.ipynb`.
+* **Datasets**:
+  - `carprices.csv`
+  - `Cars_price.csv`
+  - `hiring.csv`
+* **Topics Covered**:
+  - Simple Linear Regression
+  - Multiple Linear Regression
+  - Data preprocessing and feature selection
+  - Model training and prediction
+  - Salary and car price prediction examples
+
+---
+
+### Linear Regression Exercise
+* **Notebook**: Contains the practice notebook `Linear_Regression_Exercise.ipynb`.
+* **Data Folder**: Includes datasets:
+  - `data/ex1data1.txt`
+  - `data/ex1data2.txt`
+* **Supporting Files**:
+  - `public_tests.py`
+  - `utils.py`
+* **Topics Covered**:
+  - Implementing Linear Regression from scratch
+  - Cost Function
+  - Gradient Descent
+  - Model evaluation
+  - Hands-on coding exercises
+
+---
+
+### Classification Exercise
+* **Notebooks**:
+  - `Copy_of_Decision_Tree_Classifier.ipynb`
+  - `Copy_of_K_Fold(Iris).ipynb`
+  - `Copy_of_Support_Vector_Machine.ipynb`
+* **Dataset**:
+  - `titanic.csv`
+* **Topics Covered**:
+  - Decision Tree Classification
+  - Support Vector Machine (SVM)
+  - K-Fold Cross Validation
+  - Iris Dataset Classification
+  - Titanic Survival Prediction
+  - Model evaluation and accuracy comparison
