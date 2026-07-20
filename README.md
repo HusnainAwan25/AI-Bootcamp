@@ -117,7 +117,6 @@ To-Do List Flask API
   - Model training and prediction
   - Salary and car price prediction examples
 
----
 
 ### Linear Regression Exercise
 * **Notebook**: Contains the practice notebook `Linear_Regression_Exercise.ipynb`.
@@ -133,8 +132,6 @@ To-Do List Flask API
   - Gradient Descent
   - Model evaluation
   - Hands-on coding exercises
-
----
 
 ### Classification Exercise
 * **Notebooks**:
